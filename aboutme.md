@@ -10,7 +10,7 @@ I am seeking an opportunity to contribute to a collaborative team, apply my foun
 
 ### My Technical Skills
 
-- **Backend:** PHP, Laravel, MySQL, RESTful APIs
+- **Backend:** PHP, Laravel, ExpressJS, MySQL, RESTful APIs
 - **Frontend:** HTML, CSS, JavaScript (ES6+), React (Currently Learning)
 - **Tools & Others:** Git, GitHub, VS Code
 
